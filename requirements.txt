@@ -1,0 +1,3 @@
+pycryptodome
+pyaudio
+tk
