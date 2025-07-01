@@ -3,12 +3,6 @@
 <img src="anh1.png" alt="anh" width="200">
 <img src="anh2.png" alt="anh" width="400">
 </p>
-<!DOCTYPE html>
-<html lang="vi">
-<head>
-    <meta charset="UTF-8">
-    <title>Giới thiệu Ứng dụng Chat Âm thanh Bảo mật</title>
-</head>
 <body>
 <div class="container">
     <h1>🔐 Ứng dụng Chat Âm thanh Bảo mật</h1>
