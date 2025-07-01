@@ -24,7 +24,7 @@
         Đây là ứng dụng mô phỏng hệ thống chat âm thanh bảo mật giữa hai máy tính, sử dụng các kỹ thuật mã hóa hiện đại (RSA, DES, SHA-256, chữ ký số) để đảm bảo an toàn và xác thực dữ liệu truyền tải.
     </p>
 
-    <h2>Cách hoạt động</h2>
+<h2>Cách hoạt động</h2>
     <ol>
         <li class="step"><b>Ghi âm & gửi âm thanh:</b> Người gửi ghi âm một đoạn âm thanh, sau đó mã hóa và gửi đi.</li>
         <li class="step"><b>Trao đổi khóa an toàn:</b> Ứng dụng sử dụng RSA để trao đổi khóa bí mật (DES key) giữa hai bên.</li>
@@ -33,7 +33,7 @@
         <li class="step"><b>Giao tiếp mạng:</b> Hai bên giao tiếp qua socket TCP, gửi/nhận dữ liệu dạng JSON an toàn.</li>
     </ol>
 
-    <h2>Hướng dẫn sử dụng</h2>
+<h2>Hướng dẫn sử dụng</h2>
     <ol>
         <li class="step"><b>Khởi tạo khóa:</b> Chạy file <code>generate_keys.py</code> để tạo cặp khóa RSA cho người gửi và người nhận.</li>
         <li class="step"><b>Chạy ứng dụng:</b> Mở file <code>gui.py</code> trên cả hai máy (hoặc hai cửa sổ).</li>
