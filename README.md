@@ -5,7 +5,7 @@
 </p>
 <body>
 <div class="container">
-    <h1>🔐 Ứng dụng Chat Âm thanh Bảo mật</h1>
+    <h1 align="center">🔐 Ứng dụng Chat Âm thanh Bảo mật</h1>
     <h2>Giới thiệu</h2>
     <p>
         Đây là ứng dụng mô phỏng hệ thống chat âm thanh bảo mật giữa hai máy tính, sử dụng các kỹ thuật mã hóa hiện đại (RSA, DES, SHA-256, chữ ký số) để đảm bảo an toàn và xác thực dữ liệu truyền tải.
