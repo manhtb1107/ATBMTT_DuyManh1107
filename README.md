@@ -1,22 +1,13 @@
 <h align="center">Ứng dụng bảo mật tin nhắn âm thanh với mã hoá DES và xác thực RSA\</h2>
 <p align="center">
 <img src="anh1.png" alt="anh" width="200">
-<img src="anh2.png" alt="anh" width="200">
+<img src="anh2.png" alt="anh" width="400">
 </p>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
     <title>Giới thiệu Ứng dụng Chat Âm thanh Bảo mật</title>
-    <style>
-        body { font-family: Arial, sans-serif; background: #f0f4f7; margin: 0; padding: 0; }
-        .container { max-width: 800px; margin: 40px auto; background: #fff; border-radius: 8px; box-shadow: 0 2px 8px #ccc; padding: 32px; }
-        h1, h2 { color: #2b4b6f; }
-        ul, ol { margin-left: 24px; }
-        code { background: #eee; padding: 2px 6px; border-radius: 4px; }
-        .step { margin-bottom: 16px; }
-        .note { color: #555; font-size: 0.95em; }
-    </style>
 </head>
 <body>
 <div class="container">
