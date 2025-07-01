@@ -1,6 +1,8 @@
-<h2>Ứng dụng bảo mật tin nhắn âm thanh với mã hoá DES và xác thực RSA\</h2>
+<h align="center">Ứng dụng bảo mật tin nhắn âm thanh với mã hoá DES và xác thực RSA\</h2>
+<p align="center">
 <img src="anh1.png" alt="anh" width="200">
 <img src="anh2.png" alt="anh" width="200">
+</p>
 <!DOCTYPE html>
 <html lang="vi">
 <head>
